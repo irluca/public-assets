@@ -73,6 +73,6 @@
       "Android": "https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-universal.apk",
       "Linux": "https://github.com/SagerNet/sing-box/releases/download/v1.10.1/sing-box_1.10.1_linux_386.deb"
     },
-    "ShowInMenu": false
+    "ShowInMenu": true
   }
 ]
